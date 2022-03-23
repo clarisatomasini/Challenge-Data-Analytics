@@ -50,5 +50,3 @@ if __name__ == '__main__':
     list_data = load_data()
     data = pd.concat(list_data)
     save_data(data)
-
-# venv, 
